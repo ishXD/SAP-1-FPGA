@@ -4,8 +4,9 @@ SAP-1 : 8 bit FPGA computer implemented using AMD vivado
 ## OVERVIEW
 
 Here is the overview of the SAP-1 computer:
+
 ![overview](https://github.com/ishXD/SAP-1-FPGA/blob/main/images/sap1.png)
-<br><br>
+
 ## SIMULATION
 
 Here are all the relevant signals:
